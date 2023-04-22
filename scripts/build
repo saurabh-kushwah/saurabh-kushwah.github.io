@@ -1,0 +1,8 @@
+#!/bin/bash
+
+mkdir -p _build
+rm -rf _build/*
+cp CNAME _build/
+cp -r fonts _build/
+cp -r assets _build/
+./scripts/make.js "$*"

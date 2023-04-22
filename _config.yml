@@ -1,0 +1,23 @@
+title: saurabhkushwah.com
+author: Alex Kotliarskyi
+permalink: :title
+email: contact@saurabhkushwah.com
+twitter: https://twitter.com/alex_frantic
+description: Occasional posts on technology and stuff
+baseurl: ""
+url: https://saurabhkushwah.com
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - "*.sketch"
+  - "vendor"
+data:
+  menu:
+    - name: Blog
+      link: /blog/
+    - name: Talks
+      link: /talks/
+    - name: Projects
+      link: /projects/
+    - name: About
+      link: /about/
