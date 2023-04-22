@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://saurabhkushwah.com/</id>
+  <title>saurabhkushwah.com</title>
+  <link rel="self" href="https://saurabhkushwah.com/feed.xml" />
+  <icon>https://saurabhkushwah.com/favicon.ico</icon>
+  <subtitle>Occasional posts on technology and stuff</subtitle>
+  <updated>2023-04-22T09:14:02.863Z</updated>
+  <author>
+    <name>Alex Kotliarskyi</name>
+  </author>
+
+  
+    <entry>
+      <id>https://saurabhkushwah.com/hello-world</id>
+      <title>Hello, World!</title>
+      <updated>2023-04-22T12:00:00+00:00</updated>
+
+      <link rel="alternate" href="https://saurabhkushwah.com/hello-world" />
+      <summary></summary>
+      <content type="html"><![CDATA[
+        
+        
+        
+        <p>Here I write about programming.</p>
+
+      ]]></content>
+    </entry>
+  
+</feed>
