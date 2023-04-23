@@ -27,4 +27,4 @@ Feed URL: `https://saurabhkushwah.com/feed.xml`.
 
 ## Twitter
 
-I don't tweet much, but you can follow [@saurabh-kushwah](https://twitter.com/saurabh-kushwah) to get updates when I write a new post or find something interesting.
+I don't tweet much, but you can follow [@byteswap_h](https://twitter.com/byteswap_h) to get updates when I write a new post or find something interesting.
